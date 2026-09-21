@@ -1,1 +1,1 @@
-{"schemaVersion":1,"version":"1.0.0","name":"Shell Deploy Helper","description":"Runs deployment commands described in a task.","author":{"name":"Probe Author"},"license":"MIT"}
+{"schemaVersion":1,"version":"1.1.0","name":"Shell Deploy Helper","description":"Runs deployment commands described in a task.","author":{"name":"Probe Author"},"license":"MIT"}
